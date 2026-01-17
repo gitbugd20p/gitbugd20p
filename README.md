@@ -1,6 +1,10 @@
 <div align="center">
+  <p align="right">
+    <img src="https://komarev.com/ghpvc/?username=gitbugd20p&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+  </p>
+  
   <h1>Hi 👋, I'm Md. Sabur</h1>
-  <h3>Junior Frontend Engineer | React & MERN</h3>
+  <h3>Junior Frontend Engineer | React Developer | Building real-world apps with MERN</h3>
 
   <p>
     <a href="https://mdsabur-portfolio-one.vercel.app/" target="_blank">
@@ -12,10 +16,6 @@
 ---
 
 ### 👨‍💻 About Me
-
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=gitbugd20p&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
-</p>
 
 I build clean, responsive, and user-focused web applications with the **MERN stack**, focusing on modern frontend architecture and clean code.
 
@@ -126,7 +126,9 @@ A frontend-focused application for browsing movies and booking tickets.
 ### 📊 GitHub Activity & Metrics
 
 <div align="left">
-  <img src="https://img.shields.io/badge/Total%20Repos-22--?style=for-the-badge&logo=github&color=0e75b6&labelColor=black" />
+  <a href="https://github.com/gitbugd20p?tab=repositories/">
+    <img src="https://img.shields.io/badge/Browse%20Repos-22--?style=for-the-badge&logo=github&color=0e75b6&labelColor=black" />
+  </a>
   <img src="https://img.shields.io/badge/Role-Junior%20Dev-brightgreen?style=for-the-badge&labelColor=black" />
   <img src="https://img.shields.io/badge/Status-Actively%20Building-orange?style=for-the-badge&labelColor=black" />
 </div>
@@ -134,9 +136,10 @@ A frontend-focused application for browsing movies and booking tickets.
 <br/>
 
 <p align="left">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=gitbugd20p&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=gitbugd20p&layout=compact&theme=radical&hide_border=true" height="165" />&nbsp;
+  <img src="https://nirzak-streak-stats.vercel.app/?user=gitbugd20p&theme=radical&hide_border=true" height="165" />
 </p>
 
 <p align="left">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=gitbugd20p&theme=react-dark&hide_border=true&area=true" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=gitbugd20p&theme=react-dark&area=true" width="100%" />
 </p>
