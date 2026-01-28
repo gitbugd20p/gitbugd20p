@@ -19,10 +19,10 @@
 
 I build clean, responsive, and user-focused web applications with the **MERN stack**, focusing on modern frontend architecture and clean code.
 
--   🎯 **Focus:** Building modern, accessible UI/UX.
--   ⚛️ **Core:** React (Vite) & ES6+ JavaScript.
--   🧩 **UI Libs:** Ant Design & Tailwind CSS.
--   🚀 **Goal:** Seeking Junior Frontend roles or Internships.
+- 🎯 **Focus:** Building modern, accessible UI/UX.
+- ⚛️ **Core:** React (Vite) & ES6+ JavaScript.
+- 🧩 **UI Libs:** Ant Design & Tailwind CSS.
+- 🚀 **Goal:** Seeking Junior Frontend roles or Internships.
 
 ---
 
@@ -32,49 +32,49 @@ I build clean, responsive, and user-focused web applications with the **MERN sta
 
 A full-stack e-commerce application focused on clean architecture and auth flow.
 
--   **Stack:** React, Express, MongoDB, Zustand.
--   **Key Features:** JWT Auth, Protected Routes, Tailwind UI.
-<p>
-  <a href="https://sabur-e-commerce-p-project-one-live.vercel.app/" target="_blank">
+- **Stack:** React, Express, MongoDB, Zustand.
+- **Key Features:** JWT Auth, Protected Routes, Tailwind UI.
+    <p>
+    <a href="https://sabur-e-commerce-p-project-one-live.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/🔴_Live_Demo-FF0000?style=flat-square&logo=vercel&logoColor=white" />
-  </a>
-  <a href="https://github.com/gitbugd20p/E-commerce-P-Project-one-Live" target="_blank">
+    </a>
+    <a href="https://github.com/gitbugd20p/E-commerce-P-Project-one-Live" target="_blank">
     <img src="https://img.shields.io/badge/💻_Source_Code-black?style=flat-square&logo=github&logoColor=white" />
-  </a>
-</p>
+    </a>
+    </p>
 
 #### 📊 Employee Dashboard (Admin Task)
 
 An enterprise-focused admin interface for employee data management.
 
--   **Stack:** React, Ant Design, Tailwind CSS.
--   **Key Features:** CRUD operations, Data visualization.
-<p>
-  <a href="https://employee-dashboard-intv-task-os-st.vercel.app/" target="_blank">
+- **Stack:** React, Ant Design, Tailwind CSS.
+- **Key Features:** CRUD operations, Data visualization.
+    <p>
+    <a href="https://employee-dashboard-intv-task-os-st.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/🔴_Live_Demo-FF0000?style=flat-square&logo=vercel&logoColor=white" />
-  </a>
-  <a href="https://github.com/gitbugd20p/Employee-dashboard-intv-task-OS-ST" target="_blank">
+    </a>
+    <a href="https://github.com/gitbugd20p/Employee-dashboard-intv-task-OS-ST" target="_blank">
     <img src="https://img.shields.io/badge/💻_Source_Code-black?style=flat-square&logo=github&logoColor=white" />
-  </a>
-</p>
+    </a>
+    </p>
 
 #### 🎬 CineTicket — Movie Booking System
 
 A frontend-focused application for browsing movies and booking tickets.
 
--   **Stack:** React, Tailwind CSS, API Integration.
--   **Status:** 🛠️ _In development (Launching this week)_
-<p>
-  <img src="https://img.shields.io/badge/Coming_Soon-grey?style=flat-square" />
-</p>
+- **Stack:** React, Tailwind CSS, API Integration.
+- **Status:** 🛠️ _In development (Launching this week)_
+    <p>
+    <img src="https://img.shields.io/badge/Coming_Soon-grey?style=flat-square" />
+    </p>
 
 ---
 
 ### 🌱 Currently Learning
 
--   ⚛️ **Advanced React:** Performance & Custom Hooks.
--   🌐 **Next.js:** Exploring SSR & App Router.
--   🔐 **Security:** JWT & OAuth flows.
+- ⚛️ **Advanced React:** Performance & Custom Hooks.
+- 🌐 **Next.js:** Exploring SSR & App Router.
+- 🔐 **Security:** JWT & OAuth flows.
 
 ---
 
@@ -135,10 +135,14 @@ A frontend-focused application for browsing movies and booking tickets.
 
 <br/>
 
-<p align="left">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=gitbugd20p&layout=compact&theme=radical&hide_border=true" height="165" />&nbsp;
-  <img src="https://nirzak-streak-stats.vercel.app/?user=gitbugd20p&theme=radical&hide_border=true" height="165" />
-</p>
+<div align="center">
+  <img src="https://nirzak-streak-stats.vercel.app/?user=gitbugd20p&theme=radical&hide_border=true" height="180" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=gitbugd20p&layout=compact&theme=radical&hide_border=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=gitbugd20p&theme=radical&hide_border=true&include_all_commits=true&count_private=true" height="165" width="45%" />
+</div>
 
 <p align="left">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=gitbugd20p&theme=react-dark&area=true" width="100%" />
