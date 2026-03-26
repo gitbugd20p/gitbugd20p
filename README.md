@@ -58,14 +58,19 @@ An enterprise-focused admin interface for employee data management.
     </a>
     </p>
 
-#### 🎬 CineTicket — Movie Booking System
+#### 🌐 My Digital Agency (API-Driven)
 
-A frontend-focused application for browsing movies and booking tickets.
+A high-performance modern agency interface featuring dynamic data fetching and a modular component architecture.
 
-- **Stack:** React, Tailwind CSS, API Integration.
-- **Status:** 🛠️ _In development (Launching this week)_
+- **Stack:** React (Vite), Tailwind CSS, Axios, React Router.
+- **Key Features:** REST API Integrations, Dynamic Team/Service Sections, Responsive UX.
     <p>
-    <img src="https://img.shields.io/badge/Coming_Soon-grey?style=flat-square" />
+    <a href="https://my-digital-agency.netlify.app/" target="_blank">
+    <img src="https://img.shields.io/badge/🔴_Live_Demo-FF0000?style=flat-square&logo=vercel&logoColor=white" />
+    </a>
+    <a href="https://github.com/gitbugd20p/OS-TRN-B-5-F-Assignment-M-18" target="_blank">
+    <img src="https://img.shields.io/badge/💻_Source_Code-black?style=flat-square&logo=github&logoColor=white" />
+    </a>
     </p>
 
 ---
