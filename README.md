@@ -58,17 +58,17 @@ An enterprise-focused admin interface for employee data management.
     </a>
     </p>
 
-#### 🌐 My Digital Agency (API-Driven)
+#### 🏫 School Management System (Full-Stack)
 
-A high-performance modern agency interface featuring dynamic data fetching and a modular component architecture.
+A full-stack school management platform designed to handle academic operations like student management, class organization, and role-based access with a scalable backend architecture.
 
-- **Stack:** React (Vite), Tailwind CSS, Axios, React Router.
-- **Key Features:** REST API Integrations, Dynamic Team/Service Sections, Responsive UX.
+- **Stack:** React (Vite), Tailwind CSS, Node.js, Express.js, PostgreSQL.
+- **Key Features:** Authentication & Authorization, Student & Teacher Management, API-Driven Architecture, Responsive Dashboard UI.
     <p>
-    <a href="https://my-digital-agency.netlify.app/" target="_blank">
-    <img src="https://img.shields.io/badge/🔴_Live_Demo-FF0000?style=flat-square&logo=vercel&logoColor=white" />
+    <a href="#" target="_blank">
+    <img src="https://img.shields.io/badge/🟡_Coming_Soon-FFA500?style=flat-square&logo=vercel&logoColor=white" />
     </a>
-    <a href="https://github.com/gitbugd20p/OS-TRN-B-5-F-Assignment-M-18" target="_blank">
+    <a href="https://github.com/gitbugd20p/School-Management-System.git" target="_blank">
     <img src="https://img.shields.io/badge/💻_Source_Code-black?style=flat-square&logo=github&logoColor=white" />
     </a>
     </p>
